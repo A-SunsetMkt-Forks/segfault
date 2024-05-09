@@ -3,7 +3,7 @@ module cg
 go 1.20
 
 require (
-	github.com/docker/docker v23.0.1+incompatible
+	github.com/docker/docker v24.0.9+incompatible
 	github.com/sirupsen/logrus v1.9.0
 	golang.org/x/sys v0.5.0
 	golang.org/x/term v0.5.0
